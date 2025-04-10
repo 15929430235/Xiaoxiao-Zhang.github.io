@@ -13,7 +13,7 @@ title                    : "Zhang Xiaoxiao"
 title_separator          : "-"
 name                     : &name "Zhang Xiaoxiao"
 description              : &description "A master's student at the School of Information Engineering, Chang'an University."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/15929430235/Xiaoxiao-Zhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
